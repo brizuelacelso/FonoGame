@@ -1,0 +1,13 @@
+# Compilados y temporales de CMake
+build/
+.cache/
+*.o
+*.a
+*.exe
+fonojuego
+
+# Modelos de IA (Se descargan aparte, no se suben al repo)
+assets/models/*.bin
+
+# Archivos del sistema operativo
+.DS_Store
