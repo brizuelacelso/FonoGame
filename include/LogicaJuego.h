@@ -2,7 +2,7 @@
 #include <string>
 #include "Pokedex.h"
 
-// Adentro de tu clase principal o estructura de estado:
+
 /**
  * @brief Instancia del jugador que almacena el progreso de recolección.
  */
