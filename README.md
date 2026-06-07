@@ -40,7 +40,7 @@ sudo dnf install gcc-c++ cmake make alsa-lib-devel
 ### 2. Clonar el repositorio
 
 ```bash
-git clone [https://github.com/TU_USUARIO/FonoJuego.git](https://github.com/TU_USUARIO/FonoJuego.git)
+git clone [https://github.com/brizuelacelso/FonoJuego.git](https://github.com/brizuelacelso/FonoJuego.git)
 cd FonoJuego
 
 ```
